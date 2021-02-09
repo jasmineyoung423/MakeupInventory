@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64758C</color>
+    <color name="colorPrimaryDark">#64758C</color>
+    <color name="colorAccent">#8FADBF</color>
+    <color name="deepPurple">#3A021F</color>
+    <color name="darkBlue">#64758C</color>
+    <color name="medBlue">#8FADBF</color>
+    <color name="lightBlue">#B4CBD9</color>
+    <color name="lipstickRed">#A60303</color>
+</resources>
